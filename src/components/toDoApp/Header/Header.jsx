@@ -1,6 +1,6 @@
 import React from "react";
 import "../ui/button/ChooseAll.css";
-import HeaderInput from "./Input/HeaderInput";
+import HeaderInput from "./input/HeaderInput";
 
 export default function Header({ children }) {
   return (

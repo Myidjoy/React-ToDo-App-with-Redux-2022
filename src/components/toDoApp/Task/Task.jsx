@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useDispatch } from "react-redux";
 import InputEdit from "../inputEdit/InputEdit";
 import Checkbox from "../ui/checkbox/Checkbox";
-import TaskTitle from "./Task-title/TaskTitle";
+import TaskTitle from "./task-title/TaskTitle";
 import "./Task.css";
 import { createType } from "../../../redux/store/actions";
 

@@ -4,7 +4,7 @@ import useTasks from "../../custom-hooks/custom-hooks";
 import Page from "./Page";
 import "./PagesList.css";
 
-// { selectFilter, status }
+
 export default function pagesList() {
   const [status, dispatch] = useTasks(attributes.filter);
 

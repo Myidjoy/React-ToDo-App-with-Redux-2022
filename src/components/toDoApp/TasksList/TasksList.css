@@ -1,0 +1,14 @@
+.tasks__list {
+  padding: 16px 16px 16px 60px;
+  border: none;
+  position: relative;
+	margin: 0;
+	width: 100%;
+	font-size: 24px;
+	font-family: inherit;
+	font-weight: inherit;
+	line-height: 1.4em;
+	color: inherit;
+  outline: none;
+  list-style: none;
+}

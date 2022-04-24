@@ -1,0 +1,5 @@
+.page-list {
+  list-style: none;
+  display: flex;
+  margin-left: 25%;
+}

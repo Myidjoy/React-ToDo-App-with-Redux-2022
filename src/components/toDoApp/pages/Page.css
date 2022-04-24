@@ -1,0 +1,24 @@
+.page-list__link {
+  text-decoration: none;
+  color: #929292;
+}
+.page-list__content {
+  margin: 0 0.5em;
+}
+
+.page-list__content_active {
+  border: 1px solid rgba(175, 47, 47, 0.15);
+  border-radius: 0.3rem;
+  padding: 0 0.2rem;
+}
+
+.page-list__content_all {
+  border: 1px solid rgba(175, 47, 47, 0.15);
+  border-radius: 0.3rem;
+  padding: 0 0.2rem;
+}
+
+.page-list__content_completed {
+  border: 1px solid rgba(175, 47, 47, 0.15);
+  border-radius: 0.3rem;
+}

@@ -1,0 +1,17 @@
+.clear-all {
+  margin-right: 1rem;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding-bottom: 0.5em;
+}
+
+.clear-all > button {
+  border: none;
+  outline: none;
+  color: #b9b9b9;
+}
+
+.clear-all > button:active {
+  transform: scale(0.97);
+}
